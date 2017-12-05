@@ -1,0 +1,17 @@
+Batsman,Total
+DeVilliers, 1011
+John Snow, 100
+CDS,123
+VDSA,4324
+VDFG,653
+VER,764
+
+FGG,76
+
+DGGJ,123
+DGJ,653
+DKJH,764
+DLK,12
+
+EQW,431
+EZD,431
